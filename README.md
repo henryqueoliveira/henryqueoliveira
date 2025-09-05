@@ -5,8 +5,8 @@ Além disso, também tenho experiência em **FrontEnd** com **JavaScript, HTML e
 
 ---
 ## 🚀 Projetos em destaque
-- **SECRET** – Atualmente tambem trabalho em um projeto pessoal, onde sua finalidade é automatizar uma tarefa especifica dentro do protheus.
-  estão sendo utilizados:
+Atualmente tambem trabalho em um projeto pessoal, onde sua finalidade é automatizar uma tarefa especifica dentro do protheus.
+estão sendo utilizados:
 - Tlpp
 - REST
 - N8N
