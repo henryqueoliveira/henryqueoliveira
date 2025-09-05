@@ -11,7 +11,7 @@ estão sendo utilizados:
 - REST
 - N8N
 
-*(Aqui você pode adicionar links dos seus repositórios, ex.: [Ver projeto](https://github.com/seu-usuario/seu-projeto))*
+*(Repositorio do Projeto: [Ver projeto](https://github.com/seu-usuario/seu-projeto))*
 
 ---
 
